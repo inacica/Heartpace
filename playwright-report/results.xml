@@ -1,0 +1,62 @@
+<testsuites id="" name="" tests="8" failures="0" skipped="0" errors="0" time="33.46135">
+<testsuite name="invalidLogin.spec.js" timestamp="2024-09-16T11:34:56.331Z" hostname="chromium" tests="7" failures="0" skipped="0" time="47.79" errors="0">
+<testcase name="Invalid email" classname="invalidLogin.spec.js" time="7.161">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\invalidLogin-Invalid-email-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Blank email" classname="invalidLogin.spec.js" time="7.387">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\invalidLogin-Blank-email-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Invalid password 1" classname="invalidLogin.spec.js" time="8.193">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\invalidLogin-Invalid-password-1-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Invalid password 2" classname="invalidLogin.spec.js" time="7.245">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\invalidLogin-Invalid-password-2-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Invalid password 3" classname="invalidLogin.spec.js" time="6.844">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\invalidLogin-Invalid-password-3-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Invalid password 4" classname="invalidLogin.spec.js" time="6.718">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\invalidLogin-Invalid-password-4-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Blank password " classname="invalidLogin.spec.js" time="4.242">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\invalidLogin-Blank-password--chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="successfulLogin.spec.js" timestamp="2024-09-16T11:34:56.331Z" hostname="chromium" tests="1" failures="0" skipped="0" time="19.815" errors="0">
+<testcase name="Successful login" classname="successfulLogin.spec.js" time="19.815">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\successfulLogin-Successful-login-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
